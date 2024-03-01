@@ -23,3 +23,6 @@ class Solution
         }
     }
 }
+// stable sorting: preserve order
+//time complexity : worst case: O(n^2) , best case: O(n)
+//space complexity: O(1)
