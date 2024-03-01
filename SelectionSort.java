@@ -21,3 +21,6 @@ class Solution
 	    }
 	}
 }
+// unstable sorting: do not preserve order
+//time complexity : worst case: O(n^2) , best case: O(n^2)
+//space complexity: O(1)
