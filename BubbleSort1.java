@@ -23,6 +23,7 @@ class Solution
         }
     }
 }
+// In place sorting: sorts the input array without any additional memory
 // stable sorting: preserve order
 //time complexity : worst case: O(n^2) , best case: O(n)
 //space complexity: O(1)
