@@ -21,6 +21,7 @@ class Solution
 	    }
 	}
 }
+// In place sorting: sorts the input array without any additional memory
 // unstable sorting: do not preserve order
 //time complexity : worst case: O(n^2) , best case: O(n^2)
 //space complexity: O(1)
